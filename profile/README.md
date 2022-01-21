@@ -11,5 +11,4 @@
 [CSG AMER Salesforce Services Release Management Standards](https://salesforce.quip.com/OXN2AuxdpaJi#VDIAAAx2526)  
 ---
 [Why secrets in git are such a problem](https://blog.gitguardian.com/secrets-credentials-api-git/)  
-[Encrypting secrets in GitHub](https://docs.github.com/en/actions/security-guides/encrypted-secrets)  
----
+[Encrypting secrets in GitHub](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
