@@ -2,6 +2,8 @@
 
 **Welcome to CSG's GitHub Organization**
 
+## All repositories must have a [GUS-Aware CODEOWNERS File](https://confluence.internal.salesforce.com/display/public/corescm/Create+a+GUS-Aware+CODEOWNERS+File)
+
 ## Here is some documentation to get started with:
 [Git Handbook](https://guides.github.com/introduction/git-handbook/)  
 [GitHub Hello World](https://guides.github.com/activities/hello-world/)  
